@@ -2,3 +2,6 @@
 *.ipynb	diff=jupyternotebook
 
 *.ipynb	merge=jupyternotebook
+
+*.html linguist-detectable=false
+*.python linguist-detectable=true
